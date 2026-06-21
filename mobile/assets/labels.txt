@@ -1,0 +1,6 @@
+healthy
+stink_bug_damage
+fungal_spot
+fruit_rot
+unknown
+

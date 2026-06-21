@@ -1,0 +1,43 @@
+{
+  "source_rows": 15770,
+  "valid_unique_images": 15770,
+  "exact_duplicates_excluded": 0,
+  "corrupt": [],
+  "physical_nuts": 1577,
+  "group_counts": {
+    "quality_nuts": {
+      "train": 374,
+      "val": 80,
+      "test": 81
+    },
+    "nuts_kernel": {
+      "train": 366,
+      "val": 78,
+      "test": 79
+    },
+    "damaged_nuts": {
+      "train": 363,
+      "val": 78,
+      "test": 78
+    }
+  },
+  "image_counts": {
+    "train": {
+      "quality_nuts": 3740,
+      "nuts_kernel": 3660,
+      "damaged_nuts": 3630
+    },
+    "val": {
+      "quality_nuts": 800,
+      "nuts_kernel": 780,
+      "damaged_nuts": 780
+    },
+    "test": {
+      "quality_nuts": 810,
+      "nuts_kernel": 790,
+      "damaged_nuts": 780
+    }
+  },
+  "group_leakage_count": 0,
+  "seed": 42
+}

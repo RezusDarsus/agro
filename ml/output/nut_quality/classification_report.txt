@@ -1,0 +1,21 @@
+IMAGE-VIEW REPORT
+              precision    recall  f1-score   support
+
+quality_nuts       0.88      1.00      0.93       810
+ nuts_kernel       1.00      0.96      0.98       790
+damaged_nuts       0.98      0.88      0.93       780
+
+    accuracy                           0.95      2380
+   macro avg       0.95      0.95      0.95      2380
+weighted avg       0.95      0.95      0.95      2380
+
+PHYSICAL-NUT REPORT
+              precision    recall  f1-score   support
+
+quality_nuts       0.96      1.00      0.98        81
+ nuts_kernel       1.00      1.00      1.00        79
+damaged_nuts       1.00      0.96      0.98        78
+
+    accuracy                           0.99       238
+   macro avg       0.99      0.99      0.99       238
+weighted avg       0.99      0.99      0.99       238

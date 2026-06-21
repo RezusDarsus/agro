@@ -1,0 +1,29 @@
+name: agrolens_samegrelo
+description: Offline hazelnut health diagnostic MVP.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^4.2.0
+  image_picker: ^1.1.2
+  path_provider: ^2.1.4
+  shared_preferences: ^2.3.2
+  tflite_flutter: ^0.11.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/labels.txt
+    - assets/recommendations_ka.json
+    - assets/nut_quality_model.tflite
+    - assets/nut_quality_labels.txt
+    - assets/nut_quality_display_labels.json
+    - assets/demo/
+    - assets/demo_images/
+    # Add assets/agrolens_model.tflite here after running export_tflite.py.

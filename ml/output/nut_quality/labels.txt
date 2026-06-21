@@ -1,0 +1,3 @@
+quality_nuts
+nuts_kernel
+damaged_nuts

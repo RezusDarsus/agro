@@ -1,0 +1,41 @@
+{
+  "counts": {
+    "train": {
+      "healthy": 245,
+      "stink_bug_damage": 245,
+      "fungal_spot": 245,
+      "fruit_rot": 245,
+      "unknown": 245
+    },
+    "val": {
+      "healthy": 52,
+      "stink_bug_damage": 52,
+      "fungal_spot": 52,
+      "fruit_rot": 52,
+      "unknown": 52
+    },
+    "test": {
+      "healthy": 53,
+      "stink_bug_damage": 53,
+      "fungal_spot": 53,
+      "fruit_rot": 53,
+      "unknown": 53
+    }
+  },
+  "totals": {
+    "healthy": 350,
+    "stink_bug_damage": 350,
+    "fungal_spot": 350,
+    "fruit_rot": 350,
+    "unknown": 350
+  },
+  "exact_duplicate_groups": [],
+  "corrupt": [],
+  "needs_more_data": {
+    "healthy": 0,
+    "stink_bug_damage": 0,
+    "fungal_spot": 0,
+    "fruit_rot": 0,
+    "unknown": 0
+  }
+}

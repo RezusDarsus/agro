@@ -1,0 +1,12 @@
+{
+  "total_misclassified_views": 124,
+  "confusion_pairs": {
+    "damaged_nuts -> quality_nuts": 94,
+    "nuts_kernel -> quality_nuts": 19,
+    "nuts_kernel -> damaged_nuts": 9,
+    "quality_nuts -> damaged_nuts": 2
+  },
+  "saved_images": 60,
+  "gallery_dir": "misclassified",
+  "top_csv": "misclassified.csv"
+}

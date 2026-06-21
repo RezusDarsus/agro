@@ -1,0 +1,25 @@
+{
+  "default_variant": "dynamic_range",
+  "variants": {
+    "float32": {
+      "file": "nut_quality_model_float32.tflite",
+      "size_kb": 8692.7,
+      "test_accuracy": 0.945,
+      "ms_per_image": 8.47
+    },
+    "dynamic_range": {
+      "file": "nut_quality_model_dynamic_range.tflite",
+      "size_kb": 2472.6,
+      "test_accuracy": 0.9425,
+      "ms_per_image": 43.83
+    },
+    "int8": {
+      "file": "nut_quality_model_int8.tflite",
+      "size_kb": 2670.7,
+      "test_accuracy": 0.9475,
+      "ms_per_image": 15.42
+    }
+  },
+  "mobile_default_file": "nut_quality_model.tflite",
+  "mobile_default_copied_from": "nut_quality_model_dynamic_range.tflite"
+}

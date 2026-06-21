@@ -1,0 +1,251 @@
+{
+  "summary": {
+    "images_validated": 30,
+    "agreement": "29/30",
+    "all_passed": false,
+    "max_prob_diff_overall": 0.259226,
+    "mean_prob_diff": 0.014951
+  },
+  "rows": [
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_01071.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 3.8e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_02330.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.002178,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_01489.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.009637,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_02958.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.000178,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_02827.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 5.3e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_00226.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.000982,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_01945.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 7.2e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_05294.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.000135,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_04293.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.002045,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_00322.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.000188,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\quality_nuts\\quality_nuts_00251.jpg",
+      "true_label": "quality_nuts",
+      "keras_prediction": "quality_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.002957,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_00240.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.008688,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_01209.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 8.7e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_02638.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 3e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_04067.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.013373,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_01646.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 1e-06,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_01555.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 5.4e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_00894.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.035275,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_00983.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.00021,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_03162.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.005214,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\nuts_kernel\\nuts_kernel_02011.jpg",
+      "true_label": "nuts_kernel",
+      "keras_prediction": "nuts_kernel",
+      "tflite_prediction": "nuts_kernel",
+      "max_abs_prob_diff": 0.002617,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_04490.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.018374,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_03119.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 2.7e-05,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_05028.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "quality_nuts",
+      "max_abs_prob_diff": 0.259226,
+      "status": "FAIL"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_03207.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.043397,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_02116.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.033274,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_04425.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.003013,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_02324.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.000461,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_01473.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 0.006715,
+      "status": "PASS"
+    },
+    {
+      "file": "sample_data\\raw_candidates\\nuts\\damaged_nuts\\damaged_nut_03432.jpg",
+      "true_label": "damaged_nuts",
+      "keras_prediction": "damaged_nuts",
+      "tflite_prediction": "damaged_nuts",
+      "max_abs_prob_diff": 3e-05,
+      "status": "PASS"
+    }
+  ]
+}

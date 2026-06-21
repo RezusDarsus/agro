@@ -1,0 +1,19 @@
+{
+  "counts": {},
+  "totals": {
+    "healthy": 0,
+    "stink_bug_damage": 0,
+    "fungal_spot": 0,
+    "fruit_rot": 0,
+    "unknown": 0
+  },
+  "exact_duplicate_groups": [],
+  "corrupt": [],
+  "needs_more_data": {
+    "healthy": 300,
+    "stink_bug_damage": 300,
+    "fungal_spot": 300,
+    "fruit_rot": 300,
+    "unknown": 300
+  }
+}

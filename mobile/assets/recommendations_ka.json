@@ -1,0 +1,42 @@
+{
+  "healthy": {
+    "low": {"ka": "მცენარე ჯანსაღად გამოიყურება. გააგრძელეთ რეგულარული დაკვირვება.", "en": "The plant looks healthy. Continue regular monitoring."},
+    "medium": {"ka": "მცენარე ძირითადად ჯანსაღია, თუმცა გადაიღეთ უკეთესი ფოტო ან გადაამოწმეთ ახლოდან.", "en": "The plant looks mostly healthy; take a clearer close-up."},
+    "high": {"ka": "შედეგი წინააღმდეგობრივია. გადაიღეთ ახალი ფოტო ან მიმართეთ სპეციალისტს.", "en": "The result is inconsistent. Retake the photo or consult a specialist."}
+  },
+  "stink_bug_damage": {
+    "low": {"ka": "შესაძლოა ფაროსანას მსუბუქი დაზიანება. დაათვალიერეთ ახლომდებარე ფოთლები და ნაყოფი.", "en": "Possible light stink bug damage. Inspect nearby leaves and fruit."},
+    "medium": {"ka": "შესაძლოა ფაროსანას საშუალო დაზიანება. შეამოწმეთ ბაღის კიდეები და მიმართეთ აგრონომს, თუ დაზიანება იზრდება.", "en": "Possible medium stink bug damage. Check orchard edges and consult an agronomist if spreading."},
+    "high": {"ka": "მაღალი რისკია. რეკომენდებულია სწრაფი აგრონომიული შემოწმება.", "en": "High risk. Prompt agronomist inspection is recommended."}
+  },
+  "fungal_spot": {
+    "low": {"ka": "შესაძლოა სოკოვანი ლაქიანობის საწყისი ნიშნები. გააგრძელეთ დაკვირვება.", "en": "Possible early fungal spot symptoms. Continue monitoring."},
+    "medium": {"ka": "შესაძლოა სოკოვანი ლაქიანობა. მოაცილეთ ძლიერ დაზიანებული ფოთლები და მიმართეთ სპეციალისტს, თუ გავრცელება იმატებს.", "en": "Possible fungal spot. Remove heavily affected leaves and consult a specialist if it spreads."},
+    "high": {"ka": "სოკოვანი დაზიანების მაღალი რისკია. საჭიროა აგრონომის კონსულტაცია.", "en": "High risk of fungal damage. Agronomist consultation is recommended."}
+  },
+  "fruit_rot": {
+    "low": {"ka": "შესაძლოა ნაყოფის მსუბუქი დაზიანება. დააკვირდით შენახვისა და გაშრობის პირობებს.", "en": "Possible light fruit damage. Monitor storage and drying conditions."},
+    "medium": {"ka": "შესაძლოა ნაყოფის ლპობა. გამოყავით დაზიანებული ნაყოფი და შეამოწმეთ ტენიანობა.", "en": "Possible fruit rot. Separate damaged fruit and check humidity."},
+    "high": {"ka": "ნაყოფის ლპობის მაღალი რისკია. გამოყავით დაზიანებული ნაყოფი და მიმართეთ სპეციალისტს.", "en": "High risk of fruit rot. Separate damaged fruit and consult a specialist."}
+  },
+  "unknown": {
+    "low": {"ka": "ფოტო გაურკვეველია. გადაიღეთ ახლო, მკაფიო ფოტო დღის შუქზე.", "en": "The photo is unclear. Take a clear close-up in daylight."},
+    "medium": {"ka": "მოდელი დარწმუნებული არ არის. გადაიღეთ ახალი ფოტო ან მიმართეთ სპეციალისტს.", "en": "The model is uncertain. Retake the photo or ask a specialist."},
+    "high": {"ka": "დიაგნოზი ვერ დადგინდა. საჭიროა უკეთესი ფოტო ან აგრონომის შეფასება.", "en": "Diagnosis could not be determined. A better photo or agronomist review is needed."}
+  },
+  "quality_nuts": {
+    "low": {"ka": "თხილი ვიზუალურად ხარისხიანად გამოიყურება. შეინახეთ მშრალ, გრილ და კარგად განიავებულ გარემოში და პერიოდულად გადაამოწმეთ ტენიანობა.", "en": "The nut appears visually sound. Store it in a dry, cool, ventilated place and monitor moisture."},
+    "medium": {"ka": "მოდელი ხარისხიან თხილად აფასებს, თუმცა შედეგი გადაამოწმეთ სხვა ხედითაც. ერთი ფოტოს შეფასება საბოლოო ხარისხის კონტროლი არ არის.", "en": "The model favors quality nut, but verify from another angle. One photo is not final quality control."},
+    "high": {"ka": "შედეგი წინააღმდეგობრივია. გადაიღეთ ახალი ფოტო ერთფეროვან ფონზე და კარგი განათებით.", "en": "The result is inconsistent. Retake the photo on a plain background with good lighting."}
+  },
+  "nuts_kernel": {
+    "low": {"ka": "ფოტოზე ჩანს თხილის გული. შეამოწმეთ ფერი, სუნი, ობის ნიშნები და შენახვის ტენიანობა.", "en": "A hazelnut kernel is visible. Check color, odor, mold signs, and storage humidity."},
+    "medium": {"ka": "სავარაუდოდ თხილის გულია, თუმცა გადაიღეთ უფრო მკაფიო ახლო ფოტო. მოდელი არ აფასებს გემოს ან შიდა ქიმიურ ხარისხს.", "en": "This is probably a kernel; take a clearer close-up. The model cannot assess taste or chemical quality."},
+    "high": {"ka": "კლასიფიკაცია გაურკვეველია. ხელახლა გადაიღეთ ნიმუში ან შეამოწმეთ სპეციალისტთან.", "en": "Classification is uncertain. Retake the sample or request specialist inspection."}
+  },
+  "damaged_nuts": {
+    "low": {"ka": "შესაძლოა მსუბუქი ვიზუალური დაზიანება. გამოყავით ნიმუში და დაათვალიერეთ ბზარები, ხვრელები, ობი და ფერის ცვლილება.", "en": "Possible light visible damage. Isolate the sample and inspect cracks, holes, mold, and discoloration."},
+    "medium": {"ka": "სავარაუდოა დაზიანებული თხილი. არ შეურიოთ ხარისხიან პარტიას; შეამოწმეთ რამდენიმე ხედით და შეაფასეთ პარტიაში დაზიანების წილი.", "en": "The nut is likely damaged. Do not mix it into a quality batch; inspect from multiple views and estimate batch prevalence."},
+    "high": {"ka": "მაღალი ალბათობით თხილი ვიზუალურად დაზიანებულია. გამოყავით პარტიიდან და ჩაატარეთ ხელით ან სპეციალისტის კონტროლი.", "en": "The nut is very likely visibly damaged. Separate it from the batch and perform manual or specialist quality control."}
+  }
+}
