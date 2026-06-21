@@ -14,6 +14,9 @@ void main() {
     await tester.pump();
     expect(find.text('AgroLens\nSamegrelo'), findsOneWidget);
     expect(find.text('Take / Choose Photo'), findsOneWidget);
+    expect(find.text('Multi-view Nut Inspection'), findsOneWidget);
+    // Diagnosis History sits lower in the scrolling list; scroll it into view.
+    await tester.scrollUntilVisible(find.text('Diagnosis History'), 200);
     expect(find.text('Diagnosis History'), findsOneWidget);
   });
 }

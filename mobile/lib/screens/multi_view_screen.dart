@@ -73,7 +73,7 @@ class _MultiViewScreenState extends State<MultiViewScreen> {
       return;
     }
     try {
-      final labels = AppConstants.nutQualityLabels;
+      const labels = AppConstants.nutQualityLabels;
       final sums = {for (final l in labels) l: 0.0};
       final perViewClass = <String>[];
       for (final x in images) {

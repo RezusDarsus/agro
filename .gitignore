@@ -9,10 +9,11 @@ mobile/android/local.properties
 mobile/android/.gradle/
 mobile/.metadata
 
-# --- IDE ---
+# --- IDE / tooling ---
 .idea/
 .vscode/
 *.iml
+.claude/
 
 # --- Python (generated) ---
 ml/.venv/
